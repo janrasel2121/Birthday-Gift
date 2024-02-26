@@ -85,7 +85,7 @@
    flex-direction: column;
    justify-content: space-around;
    align-items: center;
-   gap: 2rem;
+   gap: 3rem;
 }
 .content .images-container .img1{
     background: url(images/1.jpg);
